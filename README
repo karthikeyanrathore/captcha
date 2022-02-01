@@ -1,5 +1,52 @@
 captcha
 =======
 
+INTRODUCTION
+1. captcha is a software for generating codes that are easy for humans to pass but difficult for 
+computer programs such as BOTS.
 
+(talk: for ex, the human user can extract the distorted text from the given image but bots/computer 
+programs in 90's couldn't perform such difficult task)
+
+
+2. captcha is a simple process, where the user is prompted with automated system-generated question
+and the system has to classify between humand and a bot based upon the answer from the user.
+
+(talk: in the further presentation, we will talk about types of captcha questions such as
+picture object detection, puzzel solving, speech recognition, text recognition etc.
+here text recognition based captcha is mostly used in many of the internet-based services because it is
+cost effective and it does not require a database.)
+
+
+3. captcha (completely automated public turing test to tell computers and human apart) was developed 
+in 1997 by Andrei Broder to distinguish between human and computer.
+
+(talk: what is turing test? turing test is a test where the object which distinguish between human and bot
+is a human and not a system or software. That's why captcha is known as reverse turing test because the object 
+is now captcha system.)
+
+
+
+IDEA / WHY? CAPTCHA
+1. captcha is a unique security measure to protect the internet-based services from exploitations
+performed automatically by millions of bots with offensive intentions.
+
+2. Most of internet based services such as Yahoo, Hotmail, Gmail were getting attacked by malicious bots
+which used to fill registration forms in these websites automatically with unfitting information 
+which further resulted in the performance of the systems and in some cases system failure was caused. 
+
+3. AltaVista attacked by malicious internet bots in 1997.
+(talk : ex AltaVista was a very popular search engine in 1997, where users could add url to there database.
+AltaVista was the first company to implement captcha to prevent against malicious internet bots that used
+to spam urls to their database.)
+
+
+APPLICATIONS / WHERE? CAPTCHA
+1. Website Registration: captcha systems are used in  most of the email-services such as gmail,
+yahoo, outlook etc to prevent against bots that used to register thousands of accounts.
+
+2. Search Engine Bots: captcha can be used by administrators to stop search engine bots from indexing 
+to prevent others from reading or downloading these sites because they may contain private information.
+
+3. 
 
