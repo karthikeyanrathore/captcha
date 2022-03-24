@@ -1,3 +1,6 @@
+https://sci-hub.hkvisa.net/https://ieeexplore.ieee.org/document/9398494
+https://sci-hub.hkvisa.net/10.1109/TrustCom/BigDataSE.2019.00020
+https://sci-hub.se/10.1109/CAIS.2019.8769466
 captcha
 =======
 
@@ -48,5 +51,50 @@ yahoo, outlook etc to prevent against bots that used to register thousands of ac
 2. Search Engine Bots: captcha can be used by administrators to stop search engine bots from indexing 
 to prevent others from reading or downloading these sites because they may contain private information.
 
-3. 
+3. Dictionary Attacks: captcha can be used to prevent comp programs from being able to repeat through the entire space
+of password by asking the user to solve a CAPTCHA test after a number of unsuccessful logins.
+(talk: This mechanism is better than locking an account after a certain number of unsuccessful logins.)
+
+4. Online Polls: captcha are  utilized to prevent Web crawlers and bots from engaging in online polling by asking
+the user who wants to vote to solve a CAPTCHA before the vote submission. However, this process cannot prevent
+users from voting many times. 
+
+5. Protecting Email Addresses from Scrapers: This can be done by hiding a user’s email address from Web scrapers by
+asking the user to solve a CAPTCHA before displaying his or her email address. 
+
+
+BYPASS CAPTCHA TEST / HOW? 
+1. OCR (Optical Character Recognition) is a technique / mechanism that converts images of typed, handwritten or
+printed text into machine-encoded text, whether from a scanned document, photo of a document or a scene-photo.
+Some of the software can use this technique to bypass captcha challenge.
+
+2. Random Guessing Attack: It is "the situation when an attacker randomly passes the CAPTCHA challenges without any effort". 
+For example, when a robot clicks randomly on the images correctly. It is the simplest attack that could be employed 
+to break CAPTCHAs. It requires no computation time to solve the CAPTCHA and no significant resources on the hacker’s side.
+
+3. Pictionary-based Attack: the bot maintains a picture dictionary (Pictionary) or a look-up table of object pictures 
+along with their object names and any associated information useful in picture matching. Hence, whenever the bot comes 
+across a picture, it searches for the picture by comparing properties like color/intensity, edge detected pattern, 
+pixel pattern, etc. with every picture it has in its table. If a match occurs (i.e. the picture was old), the bot
+simply looks up the answer. If there is no match (i.e. the picture is new), this picture gets added in the table for 
+future look-up".
+
+
+TYPES OF CAPTCHA
+1. Text Based CAPTCHAs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
