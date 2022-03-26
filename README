@@ -82,9 +82,11 @@ future look-up".
 
 TYPES OF CAPTCHA
 1. Text Based CAPTCHAs
-
-
-
+Text-based CAPTCHAs, the earliest and most deployed CAPTCHA type, typically asks users to recognize a 
+distorted sequence that consists of English letters or Arabic numerals
+Digits and letters are presented to the user with some modifications added to the characters such as 
+rotating, scattering, noise or making characters in 3D form, these modifications are added to make any 
+robot programs unable to read the presented characters.
 
 
 
