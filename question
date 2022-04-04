@@ -1,0 +1,41 @@
+1. I had a confusion in text based captcha . Can u tell me the advanteges of text based captcha overr image based captcha.
+
+The text-based CAPTCHA is the most
+deployed CAPTCHA. The security of them can be increased
+by adding different font faces, noise and so on. However,
+compared with other CAPTCHAs, these schemes require more
+complex operation, and many of them are no longer safe. 
+
+The image-based CAPTCHA is the most diverse type.
+Easy operation is the advantage of image-based CAPTCHAs. (any person can easily use image based captcha).
+Although some image-based CAPTCHAs are vulnerable to
+deep learning attacks, it still has a large development space.
+
+
+
+ans: text based captcha is the most deployed captcha. most of the internet based companies uses text captcha.
+day by day, the security of text based captcha is increasing by adding diff font faces, adding more noise and so on.
+However, compared with other captchas, these schemes , require more comlex operations and most of them are no longer safe.
+Image based captcha is the most diverse type, the main advanatge of image based captcha is that it can be easily
+operateted (any person can easily solve image based captcha).. some of the image based captcha are vulnerable to
+deep leaning attacks.
+in terms of security, image based captcha >> text based captcha.
+in terms of usabilty, image captcha >> text captcha.
+
+
+2. Can u tell me is there any method to bypass text based captcha.
+
+so  there are mainly three steps to bypass text capctha
+1. image preprocessing on the text image. 
+2. segmentation
+3. OCR
+
+1. image preprocessing on the text image. (reduce noise)
+2. segmentation 
+done before text recogination because if we skip this part, it will affect the perfomance of character recogintion.(OCR)
+basicaly it simplifies the image to get segmentation by detecting their boundaies likes lines or curves.
+
+3. OCR converts that image into machine encoded text.
+
+
+
